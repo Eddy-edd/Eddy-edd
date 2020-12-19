@@ -3,10 +3,10 @@ My name is Eddy King'ori from Nairobi, Kenya. I am a goal-oriented developer wit
 
 - 🔭 I’m currently working on 
 A GUI palindrome checker. 
-full-stack web application.
-Digital/Analog clock.
-- 🌱 I’m currently learning on server-side web development
+full-stack web application (business-related Web portflio) as well as both the
+Digital/Analog clocks.
+- 🌱 I’m currently learning on server-side web development and back-end development with sql and node!
 - 👯 I’m looking to collaborate on ...
-Improving my aligorthm and data sctructure skills.
+Improving my aligorthm and data sctructure skills as well as
 Improving my libraries.
 - 📫 How to reach me: Email(freelancereddy254@gmail.com), Twitter(https://twitter.com/EddybeingEdd).
